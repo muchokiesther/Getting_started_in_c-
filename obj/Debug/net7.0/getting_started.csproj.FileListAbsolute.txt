@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\getting_started\bin\Debug\net7.0\getting_started.exe
+C:\Users\pc\Desktop\getting_started\bin\Debug\net7.0\getting_started.deps.json
+C:\Users\pc\Desktop\getting_started\bin\Debug\net7.0\getting_started.runtimeconfig.json
+C:\Users\pc\Desktop\getting_started\bin\Debug\net7.0\getting_started.dll
+C:\Users\pc\Desktop\getting_started\bin\Debug\net7.0\getting_started.pdb
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\getting_started.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\getting_started.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\getting_started.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\getting_started.AssemblyInfo.cs
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\getting_started.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\getting_started.dll
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\refint\getting_started.dll
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\getting_started.pdb
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\getting_started.genruntimeconfig.cache
+C:\Users\pc\Desktop\getting_started\obj\Debug\net7.0\ref\getting_started.dll
